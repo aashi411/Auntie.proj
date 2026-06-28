@@ -148,52 +148,31 @@ She roasts excuses—not people.
 
 ## Landing Page
 
-<!-- Add Screenshot Here -->
-
-```
-images/landing-page.png
-```
+![Landing Page](images/landing-page.png)
 
 ---
 
 ## Dashboard
 
-<!-- Add Screenshot Here -->
-
-```
-images/dashboard.png
-```
+![Dashboard](images/dashboard.png)
 
 ---
 
 ## Brain Dump
 
-<!-- Add Screenshot Here -->
-
-```
-images/brain-dump.png
-```
+![Brain Dump](images/brain-dump.png)
 
 ---
 
 ## Vent Lounge
 
-<!-- Add Screenshot Here -->
-
-```
-images/vent-lounge.png
-```
+![Vent Lounge](images/vent-lounge.png)
 
 ---
 
 ## Productivity Analytics
 
-<!-- Add Screenshot Here -->
-
-```
-images/analytics.png
-```
-
+![Analytics](images/analytics.png)
 ---
 
 # 🛠️ Tech Stack
