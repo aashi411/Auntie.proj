@@ -2,8 +2,17 @@
 
 > **An AI-powered productivity companion that doesn't just remind you—it helps you get things done.**
 
-🌐 **Live Demo:** https://auntie-ai-315858824241.asia-southeast1.run.app/
 
+## Live Links
+
+**Deployed Application:**  
+https://auntie-ai-315858824241.asia-southeast1.run.app/
+
+**Project Documentation (Google Doc):**  
+https://docs.google.com/document/d/1yjJZ_JLPWRREGFkGGC_sYPB2zBZ6EPaIW6f_fOB5vYs/edit?tab=t.0
+
+**Problem Statement:**  
+The Last-Minute Life Saver
 ---
 
 ## 📌 Problem Statement
