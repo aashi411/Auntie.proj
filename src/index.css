@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=JetBrains+Mono:wght@400;500;600&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-display: 'Space Grotesk', sans-serif;
+  --font-serif: 'Playfair Display', Georgia, serif;
+  --font-mono: 'JetBrains Mono', monospace;
+
+  --color-cream: #FAF7F2;
+  --color-warm-beige: #EFECE6;
+  --color-accent-terracotta: #E03E2D; /* Red Chilly */
+  --color-accent-purple: #5E2D75; /* Purple Scarf */
+  --color-accent-green: #2D5A27;
+  --color-accent-mustard: #E0A226;
+  --color-dark-brown: #2A163B; /* Deep Purple Dark */
+  --color-light-brown: #5C4B63; /* Light purple-gray */
+  --color-accent-border: #E3DDD5;
+}
+
+body {
+  background-color: var(--color-cream);
+  color: var(--color-dark-brown);
+  font-family: var(--font-sans);
+}
+
+/* Custom scrollbar for physical notebook feel */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: var(--color-cream);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--color-warm-beige);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-accent-terracotta);
+}
+
+/* Notebook lines background effect */
+.notebook-lines {
+  background-image: linear-gradient(#e5e5e5 1px, transparent 1px);
+  background-size: 100% 2rem;
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Auntie.ai",
+  "description": "Your sarcastic but caring Indian Auntie AI companion to roast your procrastination and lovingly organize your life.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
